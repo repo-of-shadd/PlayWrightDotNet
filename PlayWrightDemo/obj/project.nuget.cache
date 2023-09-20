@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "hjfhkhbvCgl1Q6jwAcwzr2xamZdFJtXNvEw/E4D7KOKxDZyXtElqVeImlU11vlOGL0nGCIKpqsN6jtHCsNbLfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdsha\\Prac Projects\\PlayWright\\PlayWrightDotNet\\PlayWrightDemo\\PlayWrightDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdsha\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\microsoft.codecoverage\\17.7.2\\microsoft.codecoverage.17.7.2.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.2\\microsoft.net.test.sdk.17.7.2.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\microsoft.playwright\\1.38.0\\microsoft.playwright.1.38.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\microsoft.playwright.nunit\\1.38.0\\microsoft.playwright.nunit.1.38.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\microsoft.playwright.testadapter\\1.38.0\\microsoft.playwright.testadapter.1.38.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.7.2\\microsoft.testplatform.objectmodel.17.7.2.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\microsoft.testplatform.testhost\\17.7.2\\microsoft.testplatform.testhost.17.7.2.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\nunit.analyzers\\3.7.0\\nunit.analyzers.3.7.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\mdsha\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
